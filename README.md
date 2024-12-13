@@ -1,2 +1,3 @@
 # Tempo-reglas-instrucciones
-Manual de instrucciones y politica de privacidad de la aplicacion movil Tempo
+Politica de privacidad de la aplicacion movil Tempo: 
+Ingresar al documento 
